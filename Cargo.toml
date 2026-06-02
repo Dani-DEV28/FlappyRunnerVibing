@@ -1,11 +1,10 @@
 [package]
-name = "flap_runner"
+name = "flappy_puncher"
 version = "0.1.0"
-edition = "2024"
+edition = "2021"
 
 [dependencies]
-bevy = "0.15"
-rand = "0.8"
+bevy = "0.15.3"
 
 [profile.dev]
 opt-level = 1
